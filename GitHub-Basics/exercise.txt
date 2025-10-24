@@ -1,6 +1,6 @@
 1: 
 The terminal is a more direct and efficient way to interact with your computer. 
-You can use the terminal to manager your computer's file system, execute applications, 
+You can use the terminal to manage your computer's file system, execute applications, 
 and interact with different software like VSCode. 
 
 2: 
