@@ -1,0 +1,26 @@
+1: 
+The terminal is a more direct and efficient way to interact with your computer. 
+You can use the terminal to manager your computer's file system, execute applications, 
+and interact with different software like VSCode. 
+
+2: 
+Git is a distributed version control that operates on your local machine. You can use Git to 
+create different versions of your files in a special folder called a repository. 
+The different versions allow you to freely attempt to make changes to your code in one version without 
+impacting other versions, should your updates be unsucessful. 
+You use Git by having a main branch for your final product, and whenever you want to
+add a new feature, your create a branch for that feature. You work on that feature in a new version on
+a new branch, and once you're confident in your changes, you merge the feature branch to your main branch. 
+
+GitHub is a cloud based platform that stores Git repositories. GitHub allows it's users to store 
+Git repositories in the cloud and allows for people to work on the same repositories separately fostering
+a collaborative work space. A user can push their repository to GitHub and a separate user can pull that
+repository onto their local machine, update the repository and push it back to GitHub.
+
+The difference between Git and GitHub is that Git is version control system and GitHub is an online 
+platform that is used for working collaboratively and storing Git repositories.
+
+3:
+First you find a repository that you want to fork on GitHub and then you click the 
+fork button in the top right hand corner. This will make a copy of the repository in your personal GitHub
+profile. 
